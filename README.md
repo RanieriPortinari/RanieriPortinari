@@ -2,7 +2,7 @@
 
 ### 🎓 Formação Acadêmica & Técnica
 * **Graduação:** Cursando **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac Santo Amaro**.
-  * ⏳ Previsão de formatura: Dezembro de 2027.
+* ⏳ Previsão de formatura: Dezembro de 2027.
 * **Curso Técnico:** Técnico em **Tecnologia da Informação e Comunicação (T.I.)** pelo Senac (Concluído em 2018 | Duração: 2 anos).
 * **Outras Formações:** Tecnólogo em **Logística**.
 
@@ -23,4 +23,4 @@ No momento, estou focado em aprimorar minhas habilidades nas seguintes áreas:
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ranieriportinari&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RanieriPortinari&show_icons=true&theme=radical)
