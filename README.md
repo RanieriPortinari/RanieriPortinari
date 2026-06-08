@@ -23,4 +23,4 @@ No momento, estou focado em aprimorar minhas habilidades nas seguintes áreas:
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=P.R&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RanieriPortinari&show_icons=true&theme=radical)
