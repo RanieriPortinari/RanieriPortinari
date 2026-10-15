@@ -2,7 +2,7 @@
 
 ### 🎓 Formação Acadêmica & Técnica
 * **Graduação:** Cursando **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac Santo Amaro**.
-* ⏳(2º Semestre - Noturno) - Previsão de formatura: Dezembro de 2027.
+* ⏳(3º Semestre - Noturno) - Previsão de formatura: Dezembro de 2027.
 * **Curso Técnico:** Técnico em **Tecnologia da Informação e Comunicação (T.I.)** pelo Senac (Concluído em 2018 | Duração: 2 anos).
 * **Outras Formações:** Tecnólogo em **Logística**(Concluído em 2022 | Duração: 2 anos)..
 
